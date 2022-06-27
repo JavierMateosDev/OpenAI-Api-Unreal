@@ -64,4 +64,4 @@ This example shows OpenAI's chat example implemented in blueprints.
 - [OpenAI's API Reference](https://beta.openai.com/docs/api-reference/completions)
 
 ## Supported Platforms
-Windows, Mac, Android
+Windows, Mac, Android 
