@@ -40,6 +40,8 @@ There are two ways to set the Api Key
 
 ![](https://i.imgur.com/vGo2wta.png)
 > **NOTE**: This node can only be called from a blueprint's `Event Graph`. 
+
+
 #### Make Settings
 
 - This node allows you to set the `Request body` parameters.
